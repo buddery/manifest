@@ -10,7 +10,7 @@ To build PureFusion from source, you'll need to be familiar with
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/PureFusionOS/manifest.git -b n-mr2
+	repo init -u https://github.com/buddery/manifest.git -b n-mr2
 
 Then to sync up:
 
@@ -47,9 +47,11 @@ Instructions on submitting code for review can be found [here](https://review.pu
 Instructions on submitting using the repo command can be found [here](https://source.android.com/source/using-repo) (recommended - must have full Android source tree synced)
 
 ##### Sources
-We have used a mixture of PureNexusProject and PureNexusProject-Mod as a base for this ROM.
+A fork of PureFusionOS have used a mixture of PureNexusProject and PureNexusProject-Mod as a base for their ROM.
 
+PureFusionOS https://github.com/PurefusionOS (PureFusionOS project)
 [PureNexusProject-Mod](https://github.com/PureNexusProject-Mod/) (original source PureNexusProject-Mod)
 
 [PureNexusProject](https://github.com/PureNexusProject) (original source PureNexusProject)
+
 
