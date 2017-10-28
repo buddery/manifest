@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+
+  <!-- Vendor -->
+  <project path="vendor/pure" name="buddery/android_vendor_pure" remote="fusion" />
+  
+  <!--modified HTC PME blobs-->
+  <product path="vendor/htc" name="buddery/proprietary_vendor_htc" remote="cm14.1"  />
+  
+  
+
+</manifest>
