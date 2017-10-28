@@ -20,6 +20,9 @@
 
   <remote name="voxpopuli"
           fetch="https://github.com/EAS-Project"  />
+  
+  <remote name="buddery"
+           fetch "https:/github.com/buddery" />
 
   <remote name="bb"
           fetch="https://bitbucket.org/"
@@ -507,6 +510,10 @@
 
   <!-- PureFusionOS repos -->
   <include name="includes/fusion.xml" />
+  
+  
+  <!-- buddery repos -->
+  <include name="includes/buddery.xml" />
 
   <!-- Substratum repos -->
   <include name="includes/substratum.xml" />
