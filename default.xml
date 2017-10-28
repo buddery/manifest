@@ -22,7 +22,7 @@
           fetch="https://github.com/EAS-Project"  />
   
   <remote name="buddery"
-           fetch "https:/github.com/buddery" />
+           fetch="https:/github.com/buddery" />
 
   <remote name="bb"
           fetch="https://bitbucket.org/"
