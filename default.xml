@@ -21,7 +21,9 @@
   <remote name="bb"
           fetch="https://bitbucket.org/"
           revision="refs/heads/master" />
-
+  
+  <remote name="buddery"
+           fetch="https:/github.com/buddery" />
   <remote name="FusionDevices"
           fetch="https://github.com/"
           revision="pf-o"
