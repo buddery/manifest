@@ -20,8 +20,6 @@
  <project path="bionic" name="PureFusionOS/android_bionic" groups="pdk" remote="fusion" />
  <project path="bootable/recovery" name="PureFusionOS/android_bootable_recovery" groups="pdk" remote="fusion" />
  <project path="manifest" name="PureFusionOS/manifest" remote="fusion" />
- <project path="vendor/pure" name="PureFusionOS/android_vendor_pure" remote="fusion" >
-    <linkfile src="build.sh" dest="build.sh" />
  </project>
 
  <!-- Frameworks -->
