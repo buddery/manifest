@@ -5,5 +5,11 @@
 
   <!-- Vendor -->
   <project path="vendor/pure" name="buddery/android_vendor_pure" remote="fusion" />
+  
+  <!--modified HTC PME blobs-->
+  <project path="vendor/pure" name="buddery/android_vendor_pure" remote="fusion" />
+  <product path="vendor/htc" name="buddery/proprietary_vendor_htc" remote="cm14.1"  />
+  
+  
 
 </manifest>
