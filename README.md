@@ -1,5 +1,7 @@
-PureFusion OS
+  Unknamed Rom
 =====================
+Based on PureFusion OS
+---------------
 
 Getting Started
 ---------------
