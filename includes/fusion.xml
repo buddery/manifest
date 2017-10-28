@@ -20,7 +20,6 @@
  <project path="bionic" name="PureFusionOS/android_bionic" groups="pdk" remote="fusion" />
  <project path="bootable/recovery" name="PureFusionOS/android_bootable_recovery" groups="pdk" remote="fusion" />
  <project path="manifest" name="PureFusionOS/manifest" remote="fusion" />
- </project>
 
  <!-- Frameworks -->
  <project path="frameworks/base" name="PureFusionOS/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="fusion" />
