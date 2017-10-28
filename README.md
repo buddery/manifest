@@ -1,4 +1,4 @@
-PureFusion OS
+buddos
 =====================
 
 Getting Started
@@ -10,7 +10,7 @@ To build PureFusion from source, you'll need to be familiar with
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/PureFusionOS/manifest.git -b pf-o
+	repo init -u https://github.com/buddery/manifest.git -b pf-o
 
 Then to sync up:
 
@@ -48,6 +48,8 @@ Instructions on submitting using the repo command can be found [here](https://so
 
 ##### Sources
 We have used a mixture of PureNexusProject and PureNexusProject-Mod as a base for this ROM.
+
+[PureFusionOs](https://github.com/PureFusionOS/) (original source PureFusionOS)
 
 [PureNexusProject-Mod](https://github.com/PureNexusProject-Mod/) (original source PureNexusProject-Mod)
 
