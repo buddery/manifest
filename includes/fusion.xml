@@ -22,8 +22,6 @@
   </project>
   <project path="development" name="PureFusionOS/android_development" remote="fusion" />
 
-  <!-- Vendor -->
-  <project path="vendor/pure" name="PureFusionOS/android_vendor_pure" remote="fusion" />
 
   <!-- System  -->
   <project path="system/bt" name="PureFusionOS/android_system_bt" remote="fusion" />
