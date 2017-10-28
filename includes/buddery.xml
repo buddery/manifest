@@ -5,6 +5,7 @@
 
   <!-- Vendor -->
   <project path="vendor/pure" name="buddery/android_vendor_pure" remote="fusion" />
+    <linkfile src="build.sh" dest="build.sh" />
   
   <!--modified HTC PME blobs-->
   <product path="vendor/htc" name="buddery/proprietary_vendor_htc" remote="cm14.1"  />
